@@ -1,2 +1,3 @@
 # credit-calculator
-Simple calculator for house credits
+Simple calculator for hosing credits
+![Plot](plot.png)

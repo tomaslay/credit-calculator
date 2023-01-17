@@ -4,6 +4,6 @@
   "eigenKapital": 400000,
   "zinsBindung": 20,
   "sollZinsProzent": 4.0,
-  "anfangsTilgungProzent": 2.0,
+  "anfangsTilgungProzent": 3.0,
   "sonderTilgung": [5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000, 5000]
 }
